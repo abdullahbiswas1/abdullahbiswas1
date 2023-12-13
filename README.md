@@ -1,6 +1,6 @@
 <h2>Hi, I'm Abdullah Biswas 👋</h2>
 
-👑 I am Web Developer <br>
+ I am Frontend Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
 
